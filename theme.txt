@@ -31,12 +31,12 @@ desktop-color: "#3c3b37"
     height = 50%
     item_color = "black"
     selected_item_color = "black"
-    icon_width = 32
-    icon_height = 32
-    item_height = 33
-    item_padding = 1
-    item_icon_space = 1
-    item_spacing = 1
+    icon_width = 56
+    icon_height = 56
+    item_height = 56
+    item_padding = 10
+    item_icon_space = 10
+    item_spacing = 10
     menu_pixmap_style = "menu_frame_*.png"
     selected_item_pixmap_style = "highlight_*.png"
 }
