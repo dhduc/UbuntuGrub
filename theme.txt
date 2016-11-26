@@ -1,6 +1,6 @@
 # Ubuntu GRUB2 theme
 #
-# Copyright (C) 2016 Zoltán Guba <zoltan.guba@gubamm.hu>
+# Inspire from Debian Grub theme
 #
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
