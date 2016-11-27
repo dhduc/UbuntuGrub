@@ -17,6 +17,7 @@ Copy UbuntuGrub to boot grub theme folder:
 sudo cp -r UbuntuGrub /boot/grub/themes
 ```
 Make sure that /boot/grub/themes folder exist, if not please create it.
+
 Open Grub Customizer with Admintrator privileges
 
 In Appearance Setting tab, chose UbuntuGrub for Theme field, click Save button. 
