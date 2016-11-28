@@ -16,7 +16,9 @@ run() {
 	THEMEPATH="/boot/grub/themes"
 	THEMENAME="UbuntuGrub"
 	FULLPATH=$THEMEPATH'/'$THEMENAME
-	if ![ -d $THEMEPATH ]; then
+	if [ -d $THEMEPATH ]; then
+		echo $BLUE "Continue" $ENDC
+	else
 		sudo mkdir $THEMEPATH
 	fi
 	if [ -d $FULLPATH ]; then
